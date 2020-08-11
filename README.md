@@ -53,9 +53,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-### npm run eject
-可以查看所有隐藏的webpack和babel文件
-### 1.jxs语法
- - javascript + xml语法的合体 
-### 2.表单受控组件
+
 
