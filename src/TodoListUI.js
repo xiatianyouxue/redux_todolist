@@ -4,7 +4,7 @@ import {Button, Input, List} from "antd"
 export default class TodoListUI extends React.Component {
   constructor(props) {
     super(props);
-    console.log(props)
+    // console.log(props)
   }
   render() {
     return (

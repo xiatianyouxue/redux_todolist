@@ -4,7 +4,7 @@ import {
   DELETE_ITEM
 } from './actionTypes'
 const defaultState = {
-  // 用来保存需要状态
+  // 需要用redux来保存的状态
   inputValue: '',
   list: []
 }
